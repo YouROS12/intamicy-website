@@ -20,8 +20,8 @@ export enum ProductCategory {
     CONDOMS = 'Condoms',
     DELAY = 'Delay Spray/Cream',
     KIT = 'Wellness Kit',
-    INTIMATE_GEL = 'Intimate Gel',
-    DIETARY_SUPPLEMENT = 'Dietary Supplement'
+    INTIMATE_CARE = 'Intimate Care',
+    SUPPLEMENTS = 'Supplements'
 }
 
 export interface Product {
