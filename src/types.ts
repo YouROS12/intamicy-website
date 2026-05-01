@@ -18,8 +18,6 @@ export interface User {
 export enum ProductCategory {
     LUBRICANT = 'Lubricant',
     CONDOMS = 'Condoms',
-    DELAY = 'Delay Spray/Cream',
-    KIT = 'Wellness Kit',
     INTIMATE_CARE = 'Intimate Care',
     SUPPLEMENTS = 'Supplements'
 }
