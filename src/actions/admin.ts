@@ -122,7 +122,7 @@ async function insertImportedProduct(candidate: LacdpCatalogProduct, seoSlug: st
         name: candidate.name,
         description,
         price: candidate.price,
-        category: candidate.category || ProductCategory.DIETARY_SUPPLEMENT,
+        category: candidate.category || ProductCategory.SUPPLEMENTS,
         brand: candidate.brand ?? null,
         image_url: candidate.imageUrl ?? null,
         stock: candidate.stock,
