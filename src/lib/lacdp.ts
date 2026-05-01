@@ -281,7 +281,7 @@ function normalizeCatalogProduct(item: LacdpRawProduct): LacdpCatalogProduct | n
         name: normalizeWhitespace(name),
         normalizedName,
         description,
-        category: ProductCategory.DIETARY_SUPPLEMENT,
+        category: ProductCategory.SUPPLEMENTS,
         brand,
         imageUrl,
         price,
