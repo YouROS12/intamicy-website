@@ -5,14 +5,14 @@ import { getProductSlug } from '@/utils/slugHelpers';
 import ShopClient from '@/components/ShopClient';
 
 export const metadata: Metadata = {
-    title: 'Boutique — Préservatifs, Lubrifiants & Hygiène Intime | Intimacy Wellness Maroc',
-    description: 'Achetez en ligne au Maroc : préservatifs Durex & Manix, lubrifiants, hygiène intime. Paiement à la livraison. Livraison discrète 24-48h partout au Maroc.',
+    title: 'Boutique — Préservatifs, Lubrifiants, Soins Intimes & Compléments | Intimacy Wellness Maroc',
+    description: 'Achetez en ligne au Maroc : préservatifs Durex & Manix, lubrifiants, soins intimes, compléments vitalité. Paiement à la livraison. Livraison discrète 24-48h partout au Maroc.',
     alternates: {
         canonical: 'https://intimacy.ma/shop',
     },
     openGraph: {
         title: 'Boutique Bien-être Intime | Intimacy Wellness Maroc',
-        description: 'Préservatifs, lubrifiants, hygiène intime — livraison discrète au Maroc. Expertise locale marocaine.',
+        description: 'Préservatifs, lubrifiants, soins intimes, compléments vitalité — livraison discrète au Maroc.',
         url: 'https://intimacy.ma/shop',
         siteName: 'Intimacy Wellness Morocco',
         locale: 'fr_MA',
